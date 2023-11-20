@@ -1,4 +1,4 @@
-Below is the list of resources I've utilized to develop proficiency the Go programming language.
+Below is the list of resources I've utilized to develop proficiency in the Go programming language.
 
 ## Learning Resources
 
