@@ -22,9 +22,13 @@ func (r Rectangle) Area() float64 {
 	return r.Width * r.Height
 }
 
+// This is a struct:
+
 type Circle struct {
 	Radius float64
 }
+
+// This is a method:
 
 func (c Circle) Area() float64 {
 	return math.Pi * c.Radius * c.Radius
